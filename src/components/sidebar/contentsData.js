@@ -16,7 +16,7 @@ export const subContents = [
         { name: "Chapter 1 Problems", href: "/solutions/chapter01/problems" }
     ] },
     { name: "2 Getting Started", content: [
-        { name: "2.1 Insertion sort", href: "" },
+        { name: "2.1 Insertion sort", href: "/solutions/chapter02/2.1" },
         { name: "2.2 Analyzing Algorithms", href: "" },
         { name: "2.3 Designing Algorithms", href: "" },
         { name: "Chapter 2 Problems", href: "" }

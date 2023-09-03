@@ -10,7 +10,7 @@
 <div class="grid grid-cols-5">
     <Sidebar />
     <div class="col-span-4 py-3 px-5">
-        <slot/>
+      <slot/>
     </div>
 </div>
 <Footer/>
